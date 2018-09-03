@@ -1,5 +1,5 @@
 ---
-title: "lit"
+title: "Job mobility and earnings growth: diffrerent markets, different outcomes."
 author: "Ivan"
 date: "31 August 2018"
 output: html_document
@@ -7,7 +7,12 @@ output: html_document
 
 ## Abstract:
 
-This article compares internal and external mobility in two different institutional contexts. We consider three questions. First, to what extent does voluntary mobility affect earnings growth. Second, how do internal and external mobility types compare in terms of earnings growth. Third, how do mobility types compare in two different institutional settings, Germany and the UK. We offer three findings. First, voluntary mobility has a significant effect on earnings growth, pursuit of quits and promotions is a legitimate strategy for increasing pay. Second, internal career ladders reward workers better than moving between firms. In both countries, promotions and internal movements offer a higher premium to workers than quits and external movements. Three, the effect of promotions is larger in Germany than the UK. This suggests British workers must experience several internal changes before seeing substantial gain, while German workers see substantial gain after fewer internal changes. Workers are mobile in both countries, however, the high premium tied to internal mobility in Germany may act as an incentive to commit to the firm. Findings challenge the narrative of mobile and “boundaryless” markets, and question whether mobile markets are inherently “good” for workers.
+Authors exploring country differences in job mobility place too much emphasis on employment protection legislation.  
+[needs a hook]
+
+This article has two aims. First we compare the effects of quits and promotions on earnings growth. Second, we consider theit effects in two institutional settings (Germany and the UK). Studies exploring the effects of job mobility are rare, studies which compare and contrast these in separate frameworks, or capitalisms, are more rare still. 
+
+We consider three questions. First, to what extent does voluntary mobility affect earnings growth. Second, how do internal and external mobility types compare in terms of earnings growth. Third, how do mobility types compare in two different institutional settings, Germany and the UK. We offer three findings. First, voluntary mobility has a significant effect on earnings growth, pursuit of quits and promotions is a legitimate strategy for increasing pay. Second, internal career ladders reward workers better than moving between firms. In both countries, promotions and internal movements offer a higher premium to workers than quits and external movements. Three, the effect of promotions is larger in Germany than the UK. This suggests British workers must experience several internal changes before seeing substantial gain, while German workers see substantial gain after fewer internal changes. Workers are mobile in both countries, however, the high premium tied to internal mobility in Germany may act as an incentive to commit to the firm. Findings challenge the narrative of mobile and “boundaryless” markets, and question whether mobile markets are inherently “good” for workers.
  
 ## Introduction:
 
