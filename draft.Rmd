@@ -1,13 +1,13 @@
 ---
 title: "Job mobility and earnings growth: diffrerent markets, different outcomes."
 author: "Ivan"
-date: "31 August 2018"
+date: "03 September 2018"
 output: html_document
 ---
 
 ## Abstract:
 
-Countries differ in their rates of job mobility. Researchers often cite employment protection legislation when explaining this, however, rewards tied to job mobility may play a stronger role. We consider this idea through two aims. First we compare the effects of quits and promotions on earnings growth. Second, we consider their effects in two institutional settings (Germany and the UK). Studies exploring the effects of job mobility are rare, studies which compare and contrast their effects in separate institutional frameworks, or capitalisms, are even more rare. We offer two findings. First, quits and promotions have significantly different effects on earnings growth, depsite both commonly labeled as "volutnary". Internal promotions yield significant earnings growth for workers in both countries. Quits have a minor effect, which is explained by a change in weekly working hours. Second, the effect of promotions is larger in Germany than in the UK. This suggests German workers see a greater premium for promotions than British workers. Workers are mobile in both countries, however, the high premium tied to internal mobility in Germany may act as an incentive to commit to the firm instead of the market. The article helps to understand country-differences in mobility rates, which go beyond explanations in a nationa's level of employment protection legislation.  
+Countries differ in their rate of job mobility and turnover. Researchers often cite employment protection legislation when comparing such rates; however, the way mobility rewards workers may play a stronger role in determining mobility differences. We consider this idea through two aims. First we compare the effects of quits and promotions on earnings growth. Second, we consider their effects in two institutional settings (Germany and the UK). Studies exploring the effects of job mobility are rare, studies which compare and contrast their effects in separate institutional frameworks, or capitalisms, are rarer. We offer two findings. First, quits and promotions have significantly different effects on earnings growth, depsite both commonly labeled as "voluntary". Internal promotions yield significant earnings growth for workers in both countries. Quits have a minor effect, which is explained by a change in weekly working hours. Second, the effect of promotions is larger in Germany than in the UK. This suggests German workers see a greater premium for promotions than British workers. Workers are mobile in both countries, however, the high premium tied to internal mobility in Germany may act as an incentive to commit to the firm instead of the market. The article helps to understand country-differences in mobility rates, which go beyond explanations in a nationa's level of employment protection legislation.  
  
 ## Introduction:
 
