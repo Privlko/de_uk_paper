@@ -7,9 +7,9 @@ output: html_document
 
 ## Abstract:
 
-**Purpose:** The article compares internal and external job mobility as a means of improving earnings growth in Germany and the UK.
+**Purpose:** The article compares internal and external job mobility as a means of improving earnings in Germany and the UK.
 
-**Design/methodology/approach:** We consider parallel case studies using the British Household Panel Survey, and the German Socio-Economic Panel. In both panels, we use job history questions which operationalise voluntary internal and external job mobility. Using this data we estimate the effect of job mobility on earnings growth using fixed-effects estimation, and compare both countries. 
+**Design/methodology/approach:** We consider parallel case studies using the British Household Panel Survey, and the German Socio-Economic Panel. Both panels contain job history information which we use to operationalise voluntary quits and promotions. We then estimate the effect of job mobility on earnings growth using fixed-effects estimation, and compare both countries. 
 
 **Findings:** Internal and external mobility are distinctly different strategies for improving earnings. However, the institutional setting, where mobility types take place, also shapes mobility's impact on earnings growth. In both countries the core workforce benefits from internal promotions. However, in Germany the rewards tied to promotion are far greater than they are in the UK. A key reason German workers are less mobile than British workers may have less to do with employment protection legislation and more to do with the rewards tied to internal career ladders.
 
