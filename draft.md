@@ -5,22 +5,9 @@ date: "03 September 2018"
 output: html_document
 ---
 
-## Abstract:
-
-**Purpose:** The article compares internal and external job mobility as a means of improving earnings in Germany and the UK.
-
-**Design/methodology/approach:** We consider parallel case studies using the British Household Panel Survey, and the German Socio-Economic Panel. Both panels contain job history information which we use to operationalise voluntary quits and promotions. We then estimate the effect of job mobility on earnings growth using fixed-effects estimation, and compare both countries. 
-
-**Findings:** Internal and external mobility are distinctly different strategies for improving earnings. However, the institutional setting, where mobility types take place, also shapes mobility's impact on earnings growth. In both countries the core workforce benefits from internal promotions. However, in Germany the rewards tied to promotion are far greater than they are in the UK. A key reason German workers are less mobile than British workers may have less to do with employment protection legislation and more to do with the rewards tied to internal career ladders.
-
-**Practical implications:** Studies hoping to understand the link between job mobility and earnings growth must consider the importance of institutional frameworks. Labour market institutions shape not only the rate of job mobility in a given market, but also the rewards tied to mobility. 
-
-**Originality/value:** The majority of studies exploring the effects of mobility focus on single country cases. The lessons from such cases are then prescribed to other countries, without acknowledging institutional differences and settings. Our paper separates such settings and helps to understand processes of inequality in both countries. German workers who are able to pursue internal promotion are likely different from those who are unable to pursue promotion. British workers also benefit from promotions, but must pursue several promotions before seeing a substantial difference in pay.
-
-
 ## Second abstract (different format)
 
-This article uses data from the British Household Panel Survey and the German Socio-Economic Panel to analyze the relationship between voluntary mobility and earnings growth. I compare the effects of quits and promotions on wages, against remaining in the same job with the same employer (for both countries). Results show that internal promotions have the strongest effect on earnings growth, but are particularly important in the German market. The particle argues that country institutions shape not only the likelihood of mobility (Through employment protection legislation, or collective job-matching) but also its consequences.
+This article uses data from the British Household Panel Survey and the German Socio-Economic Panel to show the relationship between voluntary mobility and earnings growth. We will compare the effects of quits and promotions on wages, against remaining in the same job with the same employer (for both countries). Results show that internal promotions have the strongest effect on earnings growth, but are particularly important in the German market. The particle argues that country institutions shape not only the likelihood of mobility (Through employment protection legislation, or collective job-matching) but also its consequences.
  
 ## Introduction:
 
@@ -40,7 +27,7 @@ The article offers two findings. First, quits and promotions have significantly 
 
 This work helps to understand processes of inequality in both countries; workers who are best placed to pursue promotion, are those most likely to see earnings growth. In another sense, those who are best placed to receive promotions, are thus more likely to be rewarded. The decline of career ladders and the “death” of careers (Cappelli, 1999) has prompted some to embrace flexible and mobile markets (Arthur and Rousseau, 2001, Tolbert, 1996). This narrative claims that workers can gain through quits what was previously on offer through promotions. Our findings suggest that promotions and quits are distinctly different mechanisms for improving earnings. Although mobility may be a strategy to place oneself near internal career laders, access to promotions can be understood as an important mechanism of inequality, especially in Germany.  
 
-The article is structured as follows; section one summarises the theoretical literature on job mobility and earnings. Section two considers the theretical literature on country differences in labour market institutions. Section three outlines empirical findings and introduces our hypothesis. Section four summarises our methodology. Section five lists the results; a brief discussion concludes the article. 
+The article is structured as follows; section one summarises the theoretical literature on job mobility and earnings. Section two considers the institutional differences between the UK and Germany. Section three outlines empirical findings and introduces our hypothesis. Section four summarises our methodology. Section five lists the results; a brief discussion concludes the article. 
 
 ## Theoretical approaches to institutions, mobility, and earnings
 
@@ -54,9 +41,11 @@ In short, mobility should lead to objectively better positions for workers in bo
 
 ### Placing mobility in an institutional context
 
-Wage premiums tied to mobility may rely on the institutional setting of the labour market. We will compare two markets specifically, Germany and the UK. Across a range institutional typologies, both countries routinely sit on opposite each other. Germany and the UK differ regarding firms (Hall and Soskice), labour markets (Mills et al), welfare states (Esping-Anderssen); this section will briefly sumamrise these differences. 
+Wage premiums tied to mobility may rely on the institutional setting of the labour market. We will compare two markets specifically, Germany and the UK. Across a range institutional typologies, both countries routinely sit opposite each other. Both countries differ regarding firms (Hall and Soskice), labour markets (Mills et al), and welfare states (Esping-Anderssen); this section briefly sumamrises these differences. 
 
-The varieties of capitalism approach compares firms and employers in both countries (Hall and Soskice, Thelen). The typology suggests that firms in Liberal Market Economies (of which the UK is a prime example) are reluctant to invest in firm-specific skills, seeing this as a risky investment due to the high turnover of staff at all levels. Poaching is also seen as a cost-effcient alternative to training staff, where premiums in pay are seen as cheaper, provided they do not exceed the cost of training. Further, csince government intervention is limited, bargains are individualised. As a result, wage inequality between and within occupations is signigificant. On the topic of coordinated Labour Markets (again, of which Germany is a prime example)    
+The varieties of capitalism approach compares firms and employers in both countries (Hall and Soskice, Thelen). The typology suggests that firms in Liberal Market Economies (of which the UK is a prime example) are reluctant to invest in firm-specific skills, seeing this as a risk, due to the high turnover at all levels. Poaching is seen as a cost-effcient alternative to training, where premiums in pay are seen as cheaper, provided they do not exceed the cost of training. Further, since government intervention is limited, bargains are individualised. As a result, wage inequality between and within occupations is signigificant. Coordinated Labour Markets (again, of which Germany is a prime example) invest in training routinely, knowing that workers are committed to the firm. Turnover is low and career ladders also tend to be shorter than those of Liberal Market Economies (DiPrete, Tilly). Poaching is ineffective as wages are often tied to firrm tenure, in this way committment to the firm will likely lead to greater earnings growth than mobility to a new employer. Wage inequality within occupations is relatively minor, although higher between occupations due to occupation based stratification. Since coordinated marjet economies rely on several stakeholders to plan for the future, unions have significant coverage in the German market. As a result, job matching and job searching occurs collectively, at least in part.
+
+In Esping-Anderssen's discussion of welfare capitalisms, Liberal welfare states (like the UK) support market solutions and market-based institutions. In this way, Liberal labour markets tend to be *"unregulated, leading to higher turnover, social insecurity, and wage inequality"* (Esping-Andersen). Mills et al propose the British labour amrkets can be characterised as broadly "open". By Contrast, Corporatist welfare states (like Germany) tend to favour secure employment. Although wage inequality exists between class positions, within-them earnings tend to be more predictable. Turnover is lower, as is precarity. Mills et al characterise German labour markets as closed for the same reasons
 
 ## Mobility and earnings:
 
